@@ -1,4 +1,4 @@
-# CRC-16 Data Integrity Engine with Fault-Injection
+### CRC-16 Data Integrity Engine with Fault-Injection
 
 Data gets corrupted over wires, radio links, and storage mediums all the time. A **flipped bit doesn't change the message length**, meaning a receiver has zero clue the data is garbage unless it explicitly checks it.  
 
